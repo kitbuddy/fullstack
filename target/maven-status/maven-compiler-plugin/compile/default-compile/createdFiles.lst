@@ -1,0 +1,8 @@
+com/fullstack/demo/dao/TodoDAO.class
+com/fullstack/demo/controller/TodoController.class
+com/fullstack/demo/DemoApplication.class
+com/fullstack/demo/model/Todo.class
+com/fullstack/demo/service/TodoService.class
+com/fullstack/demo/config/RestTemplateConfig.class
+com/fullstack/demo/service/TodoServiceImpl.class
+com/fullstack/demo/dao/TodoDAOImpl.class
